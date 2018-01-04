@@ -2,6 +2,7 @@
 
 # What's involved:
 Using Python for
+
 	- Data Analysis with Pandas
 	- Exploratory Data Visualization
 	- Storytelling Through Data Visualization
