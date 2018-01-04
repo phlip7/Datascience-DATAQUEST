@@ -6,6 +6,7 @@ The original data on job outcomes was released by American Community Survey, whi
 FiveThirtyEight cleaned the dataset and released it on their Github repo.
 
 Each row in the dataset represents a different major in college and contains information on gender diversity, employment rates, median salaries, and more. Here are some of the columns in the dataset:
+
     • Rank - Rank by median earnings (the dataset is ordered by this column). 
     • Major_code - Major code. 
     • Major - Major description. 
@@ -20,7 +21,9 @@ Each row in the dataset represents a different major in college and contains inf
     • Low_wage_jobs - Number in low-wage service jobs. 
     • Full_time - Number employed 35 hours or more. 
     • Part_time - Number employed less than 35 hours. 
+    
 Using visualizations, we can start to explore questions from the dataset like:
+
     • Do students in more popular majors make more money?
         ◦ Using scatter plots 
     • How many majors are predominantly male? Predominantly female?
