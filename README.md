@@ -7,6 +7,7 @@ Using Python for
 	- Exploratory Data Visualization
 	- Storytelling Through Data Visualization
 	- Data Cleaning
+	- Working with Databases
 
 # Topics:
 
@@ -14,3 +15,6 @@ Using Python for
     Analyzing Thanksgiving Dinner
     Visualizing Earnings Based On College Majors
     Star Wars Survey
+    Preparing data for SQLite
+    Creating relations in SQLite
+    
